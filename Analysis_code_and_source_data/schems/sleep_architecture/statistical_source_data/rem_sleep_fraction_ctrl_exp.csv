@@ -1,0 +1,17 @@
+,variable,subject,cond
+0,0.11632778856444445,0,control_sleep_fraction
+1,0.105499920315,1,control_sleep_fraction
+2,0.11947211371555555,2,control_sleep_fraction
+3,0.11446375529,3,control_sleep_fraction
+4,0.04297227647555556,4,control_sleep_fraction
+5,0.05612517038972222,5,control_sleep_fraction
+6,0.09318060980916666,6,control_sleep_fraction
+7,0.05066948784722222,7,control_sleep_fraction
+0,0.09677497016055556,0,exp_sleep_fraction
+1,0.10672224256694444,1,exp_sleep_fraction
+2,0.13477255821222223,2,exp_sleep_fraction
+3,0.10024983723972222,3,exp_sleep_fraction
+4,0.09033067491305556,4,exp_sleep_fraction
+5,0.10112778557638889,5,exp_sleep_fraction
+6,0.11378336588555556,6,exp_sleep_fraction
+7,0.07752787272138889,7,exp_sleep_fraction
